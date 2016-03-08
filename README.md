@@ -1,0 +1,2 @@
+# pyconsole
+Console application
